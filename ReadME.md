@@ -19,7 +19,7 @@ Pouplar travel tends that have been trending in the market are:
 **Goal:**
 Our intellgent travel recomendations system will provide the user details and prefrencences on the most popular attractions in various loactions based on the type of travel class you fall under. This project will be the one-stop tool for travelers planning their vacations, we achive the same using Data Science tolls and techniques which will be explained in detail.
 
-# What is a Recommendatoin System?
+# What is a Recommendation System?
 
 Machine learning algorithms in recommender systems typically fit into two categories: content-based systems and collaborative filtering systems. Modern recommender systems combine both approaches.
 
